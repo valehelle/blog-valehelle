@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When to use native instead of React Native"
-date:   2018-02-27 3:55:00 +0000
+date:   2018-02-27 03:55:00 +0000
 categories: React-Native
 ---
 ##### In my opinion, React Native can be used in 90% of projects. However, they are some cases where you are better off coding in native. If you say no to all of this questions then React Native is definitely for you.
