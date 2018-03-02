@@ -47,4 +47,4 @@ This is a place to store all the functions that can be used across the app.
 ## 7. reducers
 Folder to store all of the reducers.
 
-##### [I have created a project on github as a reference](https://github.com/valehelle/kangar-rn-template]). I am planning to explain more in depth about the structure in the future. 
+##### [I have created a project on github as a reference](https://github.com/valehelle/kangar-rn-template). I am planning to explain more in depth about the structure in the future. 
