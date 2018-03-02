@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My React Native folder structure"
-date:   2018-03-02 3:55:00 +0000
+date:   2018-03-02 1:55:00 +0000
 categories: React-Native
 ---
 ##### For React Native beginner it can be hard to structure project. The lack of documentation from Facebook also did not help. Below you can find my folder structure. 
