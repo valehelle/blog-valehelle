@@ -10,6 +10,7 @@ categories: React-Native
 
 ```
 npm install kangar
+npm link kangar
 ```
 
 
