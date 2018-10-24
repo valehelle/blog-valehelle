@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How thinking in Functional Programming can improve your code."
-date:   2018-01-25 06:35:45 +0000
+date:   2018-10-23 06:35:45 +0000
 categories: Functional-Programming
 ---
 Functional Programming(FP) is a programming paradigm. You are likely more familiar with a more popular programming paradigm which is Object Oriented Programming(OOP).
