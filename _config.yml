@@ -24,7 +24,7 @@ github_username:  valehelle
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
+theme: minima
 port: 3000
 host: 0.0.0.0
 plugins:
